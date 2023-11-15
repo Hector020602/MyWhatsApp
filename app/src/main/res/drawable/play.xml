@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+    <group
+        android:name="rotationadd"
+        android:pivotX="16"
+        android:pivotY="16">
+        <path
+            android:name="add"
+            android:pathData="M 8 5.14 L 8 19.14 L 11.456 16.661 L 11.456 7.339 Z"
+            android:strokeWidth="2"
+            android:strokeColor="@color/black"
+            android:fillColor="@color/black"
+            android:strokeLineCap="square" />
+        <path
+            android:name="add"
+            android:pathData="M 11.245 16.795 L 19 12.14 L 19 12.14 L 11.245 7.205 Z"
+            android:strokeWidth="2"
+            android:strokeColor="@color/black"
+            android:fillColor="@color/black"
+            android:strokeLineCap="square" />
+    </group>
+</vector>
